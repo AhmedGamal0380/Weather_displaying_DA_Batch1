@@ -25,8 +25,6 @@ This Weather Forecast Application utilizes data from the OpenWeatherMap API, a w
 
 # Steps :
 
-This section outlines the key steps involved in developing the Weather Forecast Application, from data acquisition and processing to presentation and error handling as follows:
-
 1- Import necessary libraries: Begin by importing the required libraries, including requests for making API calls, pandas for data manipulation, and matplotlib for visualization.
 
 2- Define classes: Create classes to represent different aspects of the application's functionality, such as Current_Weather, Weather_Forecast, numerical_Weather_Data, text_Weather_Data, Plot_TheForecast_Over24h, and Show_5Days_Forecasting. These classes encapsulate data retrieval, processing, and presentation logic.
