@@ -17,8 +17,6 @@ I made this project  as apart of training of python programming in Aiapproach cl
 
 # About the dataset
 
-Here write description of the dataset you used it
-
 This Weather Forecast Application utilizes data from the OpenWeatherMap API, a widely recognized source for weather information. The API provides a range of weather-related data, including:
 
 1- Current Weather Data: This includes current temperature, feels-like temperature, minimum and maximum temperatures, humidity, atmospheric pressure, wind speed, wind direction, cloudiness, and weather condition description.
